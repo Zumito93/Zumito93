@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 My name is Santiago, I am a SRE / DevOps / BackEnd Developer from Spain (Vigo, Pontevedra, Galicia).  
-I am also a Computer Vision / Machine Vision engineer with 4 years of experience in the automotive industry.  
+I am also a Machine / Computer Vision engineer with 4 years of experience in the automotive industry.  
 
 <div id="profiles">
   <a href="https://www.linkedin.com/in/santiago-bol%C3%A1s-lago-202b60194/">
